@@ -1,1 +1,1 @@
-this is an defi scripts.
+these are defi scripts.
